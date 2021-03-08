@@ -1,0 +1,12 @@
+1.- https://restcountries.eu/rest/v2/all  GET
+2.- https://restcountries.eu/rest/v2/name/eesti GET
+3.- https://restcountries.eu/rest/v2/name/aruba?fullText=true GET
+4.- https://restcountries.eu/rest/v2/alpha/co GET
+5.- https://restcountries.eu/rest/v2/alpha?codes=col;no;ee GET
+6.- https://restcountries.eu/rest/v2/currency/cop GET
+7.- https://restcountries.eu/rest/v2/lang/es GET
+8.- https://restcountries.eu/rest/v2/capital/tallinn GET
+9.- https://restcountries.eu/rest/v2/callingcode/372 GET
+10.- https://restcountries.eu/rest/v2/region/europe GET
+11.- https://restcountries.eu/rest/v2/regionalbloc/eu GET
+12.- https://restcountries.eu/rest/v2/all?fields=name;capital;currencies GET
